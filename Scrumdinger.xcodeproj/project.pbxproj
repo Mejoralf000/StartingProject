@@ -16,6 +16,7 @@
 		FDD1A7622BAAA0810067040E /* DailyScrum.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD1A7612BAAA0810067040E /* DailyScrum.swift */; };
 		FDD1A7642BAAA7350067040E /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD1A7632BAAA7350067040E /* CardView.swift */; };
 		FDD1A7662BAAAE190067040E /* TrailingIconLabelFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD1A7652BAAAE190067040E /* TrailingIconLabelFile.swift */; };
+		FDD1A7682BAB53D10067040E /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FDD1A7672BAB53D00067040E /* ScrumsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FDD1A7612BAAA0810067040E /* DailyScrum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyScrum.swift; sourceTree = "<group>"; };
 		FDD1A7632BAAA7350067040E /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		FDD1A7652BAAAE190067040E /* TrailingIconLabelFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelFile.swift; sourceTree = "<group>"; };
+		FDD1A7672BAB53D00067040E /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 				AAAE801F294793AB0099DABC /* ScrumdingerApp.swift */,
 				FDD1A7632BAAA7350067040E /* CardView.swift */,
 				FDD1A7652BAAAE190067040E /* TrailingIconLabelFile.swift */,
+				FDD1A7672BAB53D00067040E /* ScrumsView.swift */,
 				AAAE8021294793AB0099DABC /* MeetingView.swift */,
 				AAAE8023294793AB0099DABC /* Assets.xcassets */,
 				AAAE8025294793AB0099DABC /* Preview Content */,
@@ -176,6 +179,7 @@
 				FDD1A7622BAAA0810067040E /* DailyScrum.swift in Sources */,
 				FDD1A7602BAA9C9A0067040E /* Theme.swift in Sources */,
 				AAAE8022294793AB0099DABC /* MeetingView.swift in Sources */,
+				FDD1A7682BAB53D10067040E /* ScrumsView.swift in Sources */,
 				FDD1A7662BAAAE190067040E /* TrailingIconLabelFile.swift in Sources */,
 				AAAE8020294793AB0099DABC /* ScrumdingerApp.swift in Sources */,
 				FDD1A7642BAAA7350067040E /* CardView.swift in Sources */,
